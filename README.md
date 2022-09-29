@@ -22,6 +22,6 @@
 
 
 # SQ-225 line color 
-<a href="https://www.apogeeinstruments.com/content/SQ-212-215-manual.pdf"> SQ-225 Offical Documentaion</a>
+<a href="https://www.apogeeinstruments.com/content/SQ-212-215-manual.pdf"> SQ-225 Offical Documentaion</a><br>
 <a href="https://www.apogeeinstruments.com/apogee-wiring-guide/"> line Color Link </a>
 
